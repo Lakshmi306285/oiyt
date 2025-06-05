@@ -1,6 +1,0 @@
-Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Date,year,Month,Branch_Name,Dealer_NM,Product_Name
-BR00101,DLR201,BMW-M1,100000,5,20240501,01-05-2024,2024,5,Hyderabad,Speed Motors,Swift
-BR00102,DLR202,Ren-M132,120000,6,20240515,15-05-2024,2024,5,Bangalore,Rapid Wheels,Baleno
-BR00103,DLR203,Toy-M133,130000,7,20240601,01-06-2024,2024,6,Chennai,Metro Cars,Ertiga
-BR00104,DLR204,Mar-M147,90000,3,20240603,03-06-2024,2024,6,Mumbai,City Drives,WagonR
-BR00105,DLR205,BMW-M1,140000,8,20240604,04-06-2024,2024,6,Pune,Express Motors,Brezza
