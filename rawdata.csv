@@ -1,0 +1,150 @@
+Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Date,year,Month,Branch_Name,Dealer_NM,Product_Name
+BR0001,DLR0001,BMW-M1,13363978,2,DT00001,01-01-2017,2017,1,AC Cars Motors,AC Cars Motors,BMW
+BR0011,DLR0002,BMW-M2,19979446,2,DT00002,02-01-2017,2017,1,Acura Motors,Acura Motors,BMW
+BR0021,DLR0003,BMW-M3,18118773,3,DT00004,03-01-2017,2017,1,Aixam-Mega (including Arola) Motors,Aixam-Mega (including Arola) Motors,BMW
+BR0031,DLR0004,BMW-M4,12322500,3,DT00005,04-01-2017,2017,1,Alfa Romeo Motors,Alfa Romeo Motors,BMW
+BR0041,DLR0005,BMW-M5,1196976,1,DT00006,05-01-2017,2017,1,Alpine Motors,Alpine Motors,BMW
+BR0051,DLR0006,Mer-M6,28254609,3,DT00007,06-01-2017,2017,1,Alvis Motors,Alvis Motors,Mercedes-Benz
+BR0061,DLR0007,Mer-M7,6083151,1,DT00008,07-01-2017,2017,1,"AMC, Eagle Motors","AMC, Eagle Motors",Mercedes-Benz
+BR0071,DLR0008,Mer-M8,24665256,3,DT00009,08-01-2017,2017,1,Anadol Motors,Anadol Motors,Mercedes-Benz
+BR0081,DLR0009,Dod-M9,8534145,3,DT00011,09-01-2017,2017,1,Ariel Motors,Ariel Motors,Dodge
+BR0091,DLR0010,Jee-M10,24760575,3,DT00012,10-01-2017,2017,1,ARO Motors,ARO Motors,Jeep
+BR0101,DLR0011,Jee-M11,3450696,1,DT00013,11-01-2017,2017,1,Artega Motors,Artega Motors,Jeep
+BR0111,DLR0012,Jee-M12,20974905,3,DT00016,12-01-2017,2017,1,Asia Motors Motors,Asia Motors Motors,Jeep
+BR0121,DLR0013,Jee-M13,2221530,1,DT00017,13-01-2017,2017,1,Aston Martin Motors,Aston Martin Motors,Jeep
+BR0131,DLR0014,Ram-M14,11329482,3,DT00018,14-01-2017,2017,1,Audi Motors,Audi Motors,Ram
+BR0141,DLR0015,Ram-M15,7053423,3,DT00019,15-01-2017,2017,1,Autobianchi Motors,Autobianchi Motors,Ram
+BR0151,DLR0016,For-M16,28232232,3,DT00020,16-01-2017,2017,1,Auto-Union Motors,Auto-Union Motors,Ford
+BR0161,DLR0017,For-M17,5440414,1,DT00022,17-01-2017,2017,1,Auverland Motors,Auverland Motors,Ford
+BR0171,DLR0018,For-M18,4988693,1,DT00023,18-01-2017,2017,1,Bentley Motors,Bentley Motors,Ford
+BR0181,DLR0019,For-M19,7900452,1,DT00024,19-01-2017,2017,1,Bitter Motors,Bitter Motors,Ford
+BR0191,DLR0020,For-M20,6866014,2,DT00026,20-01-2017,2017,1,BMW Motors,BMW Motors,Ford
+BR0201,DLR0021,For-M21,6197509,1,DT00028,21-01-2017,2017,1,Bond Motors,Bond Motors,Ford
+BR0211,DLR0022,For-M22,16295156,2,DT00030,22-01-2017,2017,1,Borgward (including Goliath and Lloyd) Motors,Borgward (including Goliath and Lloyd) Motors,Ford
+BR0221,DLR0023,For-M23,6873658,1,DT00031,23-01-2017,2017,1,Bristol Motors,Bristol Motors,Ford
+BR0231,DLR0024,For-M24,5221738,1,DT00032,24-01-2017,2017,1,British Leyland Motors,British Leyland Motors,Ford
+BR0241,DLR0025,For-M25,3001169,1,DT00033,25-01-2017,2017,1,Austin-Healey Motors,Austin-Healey Motors,Ford
+BR0251,DLR0026,For-M26,19425790,2,DT00034,26-01-2017,2017,1,"Austin, Rover Motors","Austin, Rover Motors",Ford
+BR0261,DLR0027,Lin-M27,15268707,3,DT00035,27-01-2017,2017,1,Bugatti Motors,Bugatti Motors,Lincoln
+BR0271,DLR0028,Lin-M28,19737520,2,DT00036,28-01-2017,2017,1,Buick Motors,Buick Motors,Lincoln
+BR0281,DLR0029,Lin-M29,7654362,2,DT00038,29-01-2017,2017,1,Bytom Motors,Bytom Motors,Lincoln
+BR0291,DLR0030,Lin-M30,4722916,2,DT00039,30-01-2017,2017,1,Cadillac Motors,Cadillac Motors,Lincoln
+BR0301,DLR0031,Bui-M31,28009680,3,DT00040,31-01-2017,2017,1,Caterham Motors,Caterham Motors,Buick
+BR0311,DLR0032,Cad-M32,18106066,2,DT00042,01-02-2017,2017,2,Checker Motors,Checker Motors,Cadillac
+BR0321,DLR0033,Cad-M33,2907854,2,DT00045,02-02-2017,2017,2,Chevrolet Motors,Chevrolet Motors,Cadillac
+BR0331,DLR0034,Cad-M34,9805538,2,DT00046,03-02-2017,2017,2,Chevrolet India Motors,Chevrolet India Motors,Cadillac
+BR0341,DLR0035,Cad-M35,13362888,3,DT00047,04-02-2017,2017,2,Chrysler Motors,Chrysler Motors,Cadillac
+BR0351,DLR0036,Cad-M36,8198552,1,DT00048,05-02-2017,2017,2,Chrysler Europe Motors,Chrysler Europe Motors,Cadillac
+BR0361,DLR0037,Cad-M37,16954836,2,DT00049,06-02-2017,2017,2,Citroën Motors,Citroën Motors,Cadillac
+BR0371,DLR0038,Cad-M38,13123946,2,DT00050,07-02-2017,2017,2,Cizeta-Moroder Motors,Cizeta-Moroder Motors,Cadillac
+BR0381,DLR0039,Cad-M39,7896011,1,DT00051,08-02-2017,2017,2,Dacia Motors,Dacia Motors,Cadillac
+BR0391,DLR0040,Che-M40,12806852,2,DT00053,09-02-2017,2017,2,"Daewoo, Saehan, Chevrolet Korea Motors","Daewoo, Saehan, Chevrolet Korea Motors",Chevrolet
+BR0401,DLR0041,Che-M41,540801,1,DT00054,10-02-2017,2017,2,DAF Motors,DAF Motors,Chevrolet
+BR0411,DLR0042,Che-M42,27851115,3,DT00056,11-02-2017,2017,2,Daihatsu Motors,Daihatsu Motors,Chevrolet
+BR0421,DLR0043,Che-M43,25853679,3,DT00057,12-02-2017,2017,2,Daimler Motors,Daimler Motors,Chevrolet
+BR0431,DLR0045,Che-M44,27157551,3,DT00059,13-02-2017,2017,2,Datsun Motors,Delahaye Motors,Chevrolet
+BR0441,DLR0046,Che-M45,7166549,1,DT00060,14-02-2017,2017,2,Delahaye Motors,DeLorean Motors,Chevrolet
+BR0451,DLR0047,Che-M46,827032,2,DT00061,15-02-2017,2017,2,DeLorean Motors,DeSoto Motors,Chevrolet
+BR0461,DLR0048,Che-M47,887358,2,DT00062,16-02-2017,2017,2,DeSoto Motors,De Tomaso Motors,Chevrolet
+BR0471,DLR0049,Che-M48,2376282,3,DT00063,17-02-2017,2017,2,De Tomaso Motors,Dodge Motors,Chevrolet
+BR0481,DLR0050,Che-M49,6012624,2,DT00064,18-02-2017,2017,2,Dodge Motors,Donkervoort Motors,Chevrolet
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
